@@ -2,11 +2,9 @@
 # "Fly the Friendly Skies"
 ## ✈️ **United Airlines Hackathon: Skyhack 2.0 🛫 <br>** 
 
-# Flowchart for Analyzing Customer Service Calls
+### 🛠️ Key Steps in the Process
 
 ```
-Start
-  |
 Data Collection
   |
 Data Preprocessing
@@ -26,7 +24,5 @@ Customer Loyalty Impact
 Insights Generation
   |
 Recommendations
-  |
-End
 ```
 
