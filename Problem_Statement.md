@@ -1,5 +1,5 @@
 
-# "Flying High with Data: Elevating United Airlines"
+# "Fly the Friendly Skies"
 ## ✈️ **United Airlines Hackathon: Skyhack 2.0 🛫 <br>** 
 
 Welcome to **Skyhack 2.0**, the data analytics hackathon hosted by United Airlines! In this exciting challenge, we aim to solve real-world problems through innovation, data insights, and creativity. Get ready to help optimize key performance areas, enhance customer service, and show your best talent!
@@ -53,7 +53,6 @@ United Airlines uses both human agents and IVR (Interactive Voice Response) syst
 ---
 
 ## 🚀 Data Set
-### **Installation & Setup**
 <a href="https://drive.google.com/drive/folders/1_Ztg-m3aYBBTnYJVTM1NdjB-J3oq_dZa?usp=sharing" target="_blank">Data Set</a>
 
 
