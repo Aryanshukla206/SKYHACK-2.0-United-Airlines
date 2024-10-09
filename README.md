@@ -29,8 +29,4 @@ Recommendations
   |
 End
 ```
-Recommendations
-  |
-End
-
 
