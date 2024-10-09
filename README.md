@@ -1,6 +1,6 @@
 
 # "Flying High with Data: Elevating United Airlines"
-## ✈️ **United Airlines Hackathon: Skyhack 2.0 <br>** 🛫
+## ✈️ **United Airlines Hackathon: Skyhack 2.0 🛫 <br>** 
 
 Welcome to **Skyhack 2.0**, the data analytics hackathon hosted by United Airlines! In this exciting challenge, we aim to solve real-world problems through innovation, data insights, and creativity. Get ready to help optimize key performance areas, enhance customer service, and show your best talent!
 
