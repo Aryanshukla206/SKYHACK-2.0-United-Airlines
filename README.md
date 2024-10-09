@@ -23,4 +23,7 @@ Insights Generation
   |
 Recommendations
 ```
+## 👥 Authors
 
+- Khushi Jain  
+- Aryan Shukla
