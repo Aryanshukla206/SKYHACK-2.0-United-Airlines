@@ -24,6 +24,4 @@ Insights Generation
 Recommendations
 ```
 ## 👥 Authors
-
-- Khushi Jain  
-- Aryan Shukla
+ Khushi Jain | Aryan Shukla | Department of Computer Science, University of Delhi
