@@ -5,8 +5,6 @@
 ### 🛠️ Key Steps in the Process
 
 ```
-Data Collection
-  |
 Data Preprocessing
   |
 Analyze Call Duration
