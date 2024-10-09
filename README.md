@@ -2,8 +2,9 @@
 # "Fly the Friendly Skies"
 ## ✈️ **United Airlines Hackathon: Skyhack 2.0 🛫 <br>** 
 
-## FlowChart
+# Flowchart for Analyzing Customer Service Calls
 
+```
 Start
   |
 Data Collection
@@ -24,6 +25,10 @@ Customer Loyalty Impact
   |
 Insights Generation
   |
+Recommendations
+  |
+End
+```
 Recommendations
   |
 End
